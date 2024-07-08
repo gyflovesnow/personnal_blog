@@ -8,5 +8,7 @@ spring:
       username: root
       password: z8h0a2n3love
       driver-class-name: com.mysql.cj.jdbc.Driver
+logging:
+   config: classpath:log4j2.xml
 
 
